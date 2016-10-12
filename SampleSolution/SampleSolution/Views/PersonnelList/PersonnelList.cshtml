@@ -1,0 +1,62 @@
+﻿
+<script src="@Url.Content("~/Scripts/jquery-3.0.0.min.js")" type="text/javascript"></script>
+<script type="text/javascript">
+    $(function ()
+    {
+        $('#row').on('click', '.chkbx', function () {
+            debugger
+            var checked = $(this).is(':checked');
+            
+        });
+    });
+</script>
+@{    
+    ViewBag.Title = "PersonnelList";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@model SampleSolution.Entities.Personnel.PersonnelList
+
+<h2>PersonnelList</h2>
+<div class="container" >
+    <div class="row">
+      <div class="span10">
+                <table class="table table-condensed table-hover" >
+                    <tr>
+                        <th></th>
+                        <th>Name</th>
+                        <th>Code</th>
+                        <th>Email</th>
+                        <th>Contact No</th>
+                        <th>Address</th>
+                    </tr>
+                    <tr>
+                        <td><input type='checkbox'  class='chkbx' /></td>
+                        <td>@Html.Hidden("Id",1)</td>
+                        <td>ALEX</td>
+                        <td>A0011</td>
+                        <td>alex@test.test</td>
+                        <td>02 5632 1233</td>
+                        <td>BELROSE</td>
+                    </tr>
+                    <tr>
+                        <td><input type='checkbox'   class='chkbx' /></td>
+                        <td>@Html.Hidden("Id",2)</td>
+                        <td>BOB</td>
+                        <td>B0022</td>
+                        <td>bob@test.test</td>
+                        <td>02 2531 2587</td>
+                        <td>ST IVES</td>
+                    </tr>
+                    <tr>
+                        <td><input type='checkbox' class='chkbx' /></td>
+                        <td>@Html.Hidden("Id",3)</td>
+                        <td>JACKI</td>
+                        <td>C0033</td>
+                        <td>jacki@test.test</td>
+                        <td>02 6324 1257</td>
+                        <td>THE PONDS</td>
+                    </tr>
+                </table>
+            </div>
+    </div>    
+</div>

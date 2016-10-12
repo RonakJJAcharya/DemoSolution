@@ -1,0 +1,4 @@
+E:\souce code\SampleSolution\SampleSolution.Common\bin\Debug\SampleSolution.Common.dll
+E:\souce code\SampleSolution\SampleSolution.Common\bin\Debug\SampleSolution.Common.pdb
+E:\souce code\SampleSolution\SampleSolution.Common\obj\Debug\SampleSolution.Common.dll
+E:\souce code\SampleSolution\SampleSolution.Common\obj\Debug\SampleSolution.Common.pdb

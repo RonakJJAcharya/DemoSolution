@@ -1,0 +1,15 @@
+E:\souce code\SampleSolution\SampleSolution.DependencyResolution\bin\Debug\SampleSolution.DependencyResolution.dll
+E:\souce code\SampleSolution\SampleSolution.DependencyResolution\bin\Debug\SampleSolution.DependencyResolution.pdb
+E:\souce code\SampleSolution\SampleSolution.DependencyResolution\bin\Debug\Ninject.dll
+E:\souce code\SampleSolution\SampleSolution.DependencyResolution\bin\Debug\Ninject.Web.Common.dll
+E:\souce code\SampleSolution\SampleSolution.DependencyResolution\obj\Debug\SampleSolution.DependencyResolution.csprojResolveAssemblyReference.cache
+E:\souce code\SampleSolution\SampleSolution.DependencyResolution\obj\Debug\SampleSolution.DependencyResolution.dll
+E:\souce code\SampleSolution\SampleSolution.DependencyResolution\obj\Debug\SampleSolution.DependencyResolution.pdb
+E:\souce code\SampleSolution\SampleSolution.DependencyResolution\bin\Debug\SampleSolution.Data.dll
+E:\souce code\SampleSolution\SampleSolution.DependencyResolution\bin\Debug\SampleSolution.Interfaces.dll
+E:\souce code\SampleSolution\SampleSolution.DependencyResolution\bin\Debug\SampleSolution.Data.pdb
+E:\souce code\SampleSolution\SampleSolution.DependencyResolution\bin\Debug\SampleSolution.Interfaces.pdb
+E:\souce code\SampleSolution\SampleSolution.DependencyResolution\bin\Debug\Ninject.xml
+E:\souce code\SampleSolution\SampleSolution.DependencyResolution\bin\Debug\Ninject.Web.Common.xml
+E:\souce code\SampleSolution\SampleSolution.DependencyResolution\bin\Debug\SampleSolution.Entities.dll
+E:\souce code\SampleSolution\SampleSolution.DependencyResolution\bin\Debug\SampleSolution.Entities.pdb

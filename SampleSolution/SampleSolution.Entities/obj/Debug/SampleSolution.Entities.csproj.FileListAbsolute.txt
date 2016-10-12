@@ -1,0 +1,5 @@
+E:\souce code\SampleSolution\SampleSolution.Entities\bin\Debug\SampleSolution.Entities.dll
+E:\souce code\SampleSolution\SampleSolution.Entities\bin\Debug\SampleSolution.Entities.pdb
+E:\souce code\SampleSolution\SampleSolution.Entities\obj\Debug\SampleSolution.Entities.csprojResolveAssemblyReference.cache
+E:\souce code\SampleSolution\SampleSolution.Entities\obj\Debug\SampleSolution.Entities.dll
+E:\souce code\SampleSolution\SampleSolution.Entities\obj\Debug\SampleSolution.Entities.pdb

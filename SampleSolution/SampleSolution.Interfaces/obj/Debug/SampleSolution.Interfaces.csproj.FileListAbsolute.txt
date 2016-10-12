@@ -1,0 +1,7 @@
+E:\souce code\SampleSolution\SampleSolution.Interfaces\bin\Debug\SampleSolution.Interfaces.dll
+E:\souce code\SampleSolution\SampleSolution.Interfaces\bin\Debug\SampleSolution.Interfaces.pdb
+E:\souce code\SampleSolution\SampleSolution.Interfaces\obj\Debug\SampleSolution.Interfaces.csprojResolveAssemblyReference.cache
+E:\souce code\SampleSolution\SampleSolution.Interfaces\obj\Debug\SampleSolution.Interfaces.dll
+E:\souce code\SampleSolution\SampleSolution.Interfaces\obj\Debug\SampleSolution.Interfaces.pdb
+E:\souce code\SampleSolution\SampleSolution.Interfaces\bin\Debug\SampleSolution.Entities.dll
+E:\souce code\SampleSolution\SampleSolution.Interfaces\bin\Debug\SampleSolution.Entities.pdb
